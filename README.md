@@ -218,12 +218,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="30" alt="groovy logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/rezaikbal/rezaikbal/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
